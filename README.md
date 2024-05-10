@@ -32,7 +32,7 @@
 <summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/Rohanthakur360/forward_bot_premium_ultra">
+<a href="https://heroku.com/deploy?template=https://github.com/Nrgodara/forward-bot-premium/tree/main">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
@@ -76,8 +76,8 @@ restart - Restart the bot (Admin Only)
 
 
 ### ❤️ RESPECTING ❤️
-- [RohanThakur](https://github.com/Rohanthakur360)
+- [MAHI®](https://github.com/Nrgodara)
 
 ### 💕 CONTACT DEVELOPER 💕
-- [Stubborn](https://t.me/Stubborn1223)
+- [𝙈𝘼𝙃𝙄®](https://t.me/Mr_mahiji)
 
